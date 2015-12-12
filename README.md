@@ -9,4 +9,4 @@ stats calcualtion of different motions
 generate report for your daily activity
 
 ==================================
-changes
+changes added
